@@ -9,7 +9,8 @@
     "url": "git://github.com/mapbox/sample-sizer.git"
   },
   "dependencies": {
-    "simple-statistics": "^1.0.1"
+    "simple-statistics": "^1.0.1",
+    "tap": "^5.7.1"
   },
   "devDependencies": {},
   "scripts": {}
