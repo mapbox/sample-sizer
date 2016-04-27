@@ -16,3 +16,5 @@ The following code asks the question, "If this is my sample, how many observatio
 var sizer = require('sample-sizer');
 var minimumSize1 = sizer([1,2,3,2,1,2,3,99], .9, 3);
 ```
+
+If the number you get is less than the length of your sample array, you need to increase your sample size! You can't be (as) confident (as you want to be) that your data is representative of the population.
