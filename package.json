@@ -1,0 +1,16 @@
+{
+  "name": "sample-sizer",
+  "description": "Uses Student's T-Distribution to identify minimum sample sizes",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mapbox/sample-sizer.git"
+  },
+  "dependencies": {
+    "simple-statistics": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
