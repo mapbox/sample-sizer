@@ -7,6 +7,10 @@ Sample Sizer uses Student's [T-Distribution to identify minimum sample sizes](ht
 #### Minimum Sample Sizes
 The calculation of a minimum sample size a function of your samples _Degrees of Freedom_, _Standard Deviation_, and _T-Critical Value_, which is a function of those _Degrees of Freedom_ and your desired _Confidence_ level.  
 
+#### Installation
+To add to your project, install with:
+
+`npm install sample-sizer`
 
 #### Usage
 When you call the main function in `index.js`, you'll need to provide a _sample_ (array), a _confidence_ value (float), and an _error tolerance_ (int). 
